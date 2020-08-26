@@ -2,3 +2,4 @@
 /upload
 *.log
 /cache*
+modules/AOD_Index/Index/Index/*
